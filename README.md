@@ -1,2 +1,2 @@
-# PicGo
-PicGo图床仓库
+# blog
+blog project software file
