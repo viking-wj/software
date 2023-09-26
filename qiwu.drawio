@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T02:05:16.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="rG6lfqh0H7Err_tw2c57" version="21.8.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-26T02:12:39.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sMd7SwkAL3XI2pRcnRoF" version="21.8.0" type="github" pages="2">
   <diagram name="第 1 页" id="m4n6hDYsiDirdl6bRJB4">
-    <mxGraphModel dx="1834" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2449" dy="1529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,19 +8,22 @@
           <mxGeometry x="-100" y="330" width="850" height="280" as="geometry" />
         </mxCell>
         <mxCell id="A2RylT53l24fVbUSSpzr-12" value="传感器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="820" width="80" height="80" as="geometry" />
+          <mxGeometry x="125" y="830" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A2RylT53l24fVbUSSpzr-13" value="智能仪表" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="20" y="740" width="80" height="80" as="geometry" />
+          <mxGeometry x="25" y="750" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A2RylT53l24fVbUSSpzr-14" value="智能设备" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="570" y="740" width="80" height="80" as="geometry" />
+          <mxGeometry x="575" y="750" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9fvfTQMUhs5BRGIVsg79-3" style="edgeStyle=none;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="A2RylT53l24fVbUSSpzr-15" target="A2RylT53l24fVbUSSpzr-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A2RylT53l24fVbUSSpzr-15" value="控制器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="280" y="830" width="80" height="80" as="geometry" />
+          <mxGeometry x="285" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A2RylT53l24fVbUSSpzr-16" value="执行器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="430" y="800" width="80" height="80" as="geometry" />
+          <mxGeometry x="435" y="810" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A2RylT53l24fVbUSSpzr-18" value="设备接入与管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="400" width="120" height="60" as="geometry" />
@@ -70,11 +73,17 @@
         <mxCell id="A2RylT53l24fVbUSSpzr-8" value="智慧井盖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tzziDudDFbOAvPlbdZH2-4">
           <mxGeometry x="630" y="160" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9fvfTQMUhs5BRGIVsg79-1" value="云原生" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9fvfTQMUhs5BRGIVsg79-4" value="OT数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="pRVTCiDznoJP4SaoYn0O" name="第 2 页">
-    <mxGraphModel dx="2234" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
