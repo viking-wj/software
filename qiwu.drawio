@@ -1,9 +1,143 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T01:05:31.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.8.0" etag="0QpxH2bXC0Sx9NmXLNuI" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T02:05:16.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="rG6lfqh0H7Err_tw2c57" version="21.8.0" type="github" pages="2">
   <diagram name="第 1 页" id="m4n6hDYsiDirdl6bRJB4">
-    <mxGraphModel>
+    <mxGraphModel dx="1834" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A2RylT53l24fVbUSSpzr-11" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="330" width="850" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-12" value="传感器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-13" value="智能仪表" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-14" value="智能设备" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-15" value="控制器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-16" value="执行器" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="430" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-18" value="设备接入与管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-19" value="数据实时分析处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-20" value="数字孪生可视化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tzziDudDFbOAvPlbdZH2-1" value="微服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tzziDudDFbOAvPlbdZH2-2" value="弹性扩容" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tzziDudDFbOAvPlbdZH2-3" value="高可用" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="140" y="580" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tzziDudDFbOAvPlbdZH2-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-130" y="-20" width="850" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="tzziDudDFbOAvPlbdZH2-4">
+          <mxGeometry width="850" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-1" value="大气网格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tzziDudDFbOAvPlbdZH2-4">
+          <mxGeometry x="150" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-2" value="能源管理&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tzziDudDFbOAvPlbdZH2-4">
+          <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-3" value="地下车库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tzziDudDFbOAvPlbdZH2-4">
+          <mxGeometry x="310" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-4" value="扶梯系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tzziDudDFbOAvPlbdZH2-4">
+          <mxGeometry x="300" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-5" value="综合环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tzziDudDFbOAvPlbdZH2-4">
+          <mxGeometry x="470" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-6" value="室内环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tzziDudDFbOAvPlbdZH2-4">
+          <mxGeometry x="470" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-7" value="气象信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tzziDudDFbOAvPlbdZH2-4">
+          <mxGeometry x="620" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A2RylT53l24fVbUSSpzr-8" value="智慧井盖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tzziDudDFbOAvPlbdZH2-4">
+          <mxGeometry x="630" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pRVTCiDznoJP4SaoYn0O" name="第 2 页">
+    <mxGraphModel dx="2234" dy="1190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f5ulscrtCfo3O-M_z-IR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-160" width="1220" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="f5ulscrtCfo3O-M_z-IR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-160" width="1220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f5ulscrtCfo3O-M_z-IR-3" value="解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="f5ulscrtCfo3O-M_z-IR-5" value="气象信息" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-1" value="地下车库" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-2" value="室内环境" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-3" value="大气网格" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-4" value="能源管理" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="-165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-5" value="扶梯系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-165" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="390" width="1220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-7" value="Iaas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="390" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="470" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-13" value="公有云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="485" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HFZHDvBWf78-072OfC1B-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="470" width="520" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oORojC2WzDqyx_4yr0OH-1" value="阿里云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oORojC2WzDqyx_4yr0OH-2" value="aws" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oORojC2WzDqyx_4yr0OH-3" value="Azure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oORojC2WzDqyx_4yr0OH-4" value="私有云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="485" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oORojC2WzDqyx_4yr0OH-5" value="openstack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
