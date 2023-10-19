@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-19T00:50:15.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1pIr_HNgOUfe-ZiK_7VP" version="22.0.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-19T03:21:35.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5dSHIKQBMIXsi0p-vmej" version="22.0.4" type="github" pages="4">
   <diagram name="Saas架构" id="m4n6hDYsiDirdl6bRJB4">
     <mxGraphModel dx="3197" dy="2806" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1053,10 +1053,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m4scuLausaYYllROADx8" name="总体设计">
-    <mxGraphModel dx="2160" dy="1788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1999" dy="1469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uKP25tG4rr4c4EOn3al_-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-324.5" y="1062" width="639" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="xI7Lv1M0WrV2RGkv4SM6-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-630" y="-149" width="484" height="497.75" as="geometry" />
         </mxCell>
@@ -1272,6 +1275,51 @@
         </mxCell>
         <mxCell id="vI3Cd6K9a_cz05W3-Q3r-23" value="用户管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430.75" y="347" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-214" y="1118" width="432" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-4" value="通用解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-189" y="1299" width="382" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="1165" width="380" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-6" value="大气网格" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1207" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-7" value="地下车库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-92" y="1209" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-8" value="室内环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="1207" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-9" value="气象信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87" y="1207" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-12" value="能源管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1249" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-13" value="扶梯系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-92" y="1249" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-14" value="综合环境" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="1249" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-15" value="智慧井盖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="87" y="1249" width="60" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-16" value="定制化解决方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-52.5" y="1169" width="95" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-17" value="...." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="139" y="1226" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-18" value="集成解决方案" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-52.5" y="1125" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uKP25tG4rr4c4EOn3al_-21" value="SaaS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="1399" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
