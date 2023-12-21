@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T06:39:46.003Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="13ra6Vo_1COWbyV-wV1d" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-21T09:31:09.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IG58abhGDk-uykE5KJ2I" version="22.1.11" type="github" pages="4">
   <diagram name="X2OPC" id="EuguWfBhZU7mPNBLyreZ">
     <mxGraphModel dx="1547" dy="997" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -357,31 +357,31 @@
           <mxGeometry x="-395" y="223" width="54" height="26" as="geometry" />
         </mxCell>
         <mxCell id="CqEqAGLtzAw3awDlQIS_-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-988" y="375" width="571" height="239" as="geometry" />
+          <mxGeometry x="-998" y="421" width="571" height="239" as="geometry" />
         </mxCell>
         <mxCell id="CqEqAGLtzAw3awDlQIS_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-988" y="375" width="570" height="60" as="geometry" />
+          <mxGeometry x="-998" y="421" width="570" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CqEqAGLtzAw3awDlQIS_-3" value="KYD-OPC2Web" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#6666FF;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="-803" y="390" width="209" height="30" as="geometry" />
+          <mxGeometry x="-813" y="436" width="209" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqEqAGLtzAw3awDlQIS_-4" value="远程OPC配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-935" y="466" width="130" height="30" as="geometry" />
+          <mxGeometry x="-945.87" y="521" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqEqAGLtzAw3awDlQIS_-5" value="组配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="464" width="96" height="30" as="geometry" />
+          <mxGeometry x="-750.87" y="519" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqEqAGLtzAw3awDlQIS_-6" value="标签配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-556.25" y="466" width="96" height="30" as="geometry" />
+          <mxGeometry x="-567.12" y="521" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CqEqAGLtzAw3awDlQIS_-7" value="标签导出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-932.5" y="518" width="125" height="30" as="geometry" />
+        <mxCell id="CqEqAGLtzAw3awDlQIS_-7" value="标签导入/导出" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-943.37" y="573" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqEqAGLtzAw3awDlQIS_-8" value="许可管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-559" y="518" width="96" height="30" as="geometry" />
+          <mxGeometry x="-569.87" y="573" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CqEqAGLtzAw3awDlQIS_-9" value="本地OPC配置" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-761" y="522" width="155.5" height="30" as="geometry" />
+          <mxGeometry x="-780.62" y="573" width="155.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
