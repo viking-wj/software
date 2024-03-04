@@ -1,2 +1,2 @@
-# picGo
-image 
+# smcs
+图床
