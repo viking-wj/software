@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T07:13:15.996Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.5" etag="5kpuYMKwq1aDL_z-7QXS" type="github">
-  <diagram name="第 1 页" id="k8EcO_HaS88g-lADY9RN">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-03-15T07:20:49.646Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Sl7Z0GSC9i_eh0MlQ-U-" version="24.0.5" type="github">
+  <diagram name="数据链路层" id="k8EcO_HaS88g-lADY9RN">
+    <mxGraphModel dx="2234" dy="1146" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UABQiE7pW7i2V6aWxCby-1" value="IP数据报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-613" y="-11" width="393" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-2" value="首部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-616" y="-11" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-3" value="尾部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-11" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-613" y="309" width="495" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-5" value="首部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-616" y="309" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-6" value="尾部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-238" y="309" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-7" value="FCS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-319" y="309" width="81" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-8" value="IP数据报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-439" y="324" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-613" y="133" width="508" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-10" value="首部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-616" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-11" value="尾部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-12" value="IP数据报" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-389" y="152" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UABQiE7pW7i2V6aWxCby-13" value="转义的首部&lt;div&gt;尾部等&lt;/div&gt;&lt;div&gt;特殊字符&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-482" y="133" width="85" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
