@@ -1154,7 +1154,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UrOOw5r3VukSVw01nyrx" name="opc ua">
-    <mxGraphModel dx="4785" dy="1865" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3406" dy="1148" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1665,11 +1665,26 @@
         <mxCell id="XuijSl0Gu67bkkhmu2qU-8" value="" style="triangle;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-628" y="2945" width="28" height="16" as="geometry" />
         </mxCell>
+        <mxCell id="3V5qjXSkk2rq9nwJN6iG-1" value="设备列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-714" y="1266" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3V5qjXSkk2rq9nwJN6iG-2" value="添加设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-959" y="1641" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3V5qjXSkk2rq9nwJN6iG-3" value="添加属性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="27" y="1640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3V5qjXSkk2rq9nwJN6iG-4" value="添加方法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="27" y="2236" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3V5qjXSkk2rq9nwJN6iG-5" value="添加事件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1022" y="2724" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="0Mp-dKC1NtVd54G8SfxK" name="bacnet">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3668" dy="1892" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1770,7 +1785,7 @@
           <mxGeometry x="37" y="987" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WhlkQ7gftItWW23ebggn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-823" y="1262" width="773" height="834" as="geometry" />
+          <mxGeometry x="-748" y="1267" width="656" height="834" as="geometry" />
         </mxCell>
         <mxCell id="WhlkQ7gftItWW23ebggn-2" value="设备id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-741.5" y="1298" width="87" height="54" as="geometry" />
@@ -1914,7 +1929,7 @@
           <mxGeometry x="-264" y="1724" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WdsXopu2rZIr_oRybxWr-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="121" y="1466" width="578" height="401" as="geometry" />
+          <mxGeometry x="146" y="1451" width="500" height="436" as="geometry" />
         </mxCell>
         <mxCell id="WdsXopu2rZIr_oRybxWr-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="224" y="1595" width="389" height="158" as="geometry" />
@@ -1976,11 +1991,20 @@
             <mxPoint x="-39" y="1577" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Fezjm5puBA7-eV-mc4br-1" value="设备列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-504" y="968" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fezjm5puBA7-eV-mc4br-2" value="添加设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-728" y="1281" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Fezjm5puBA7-eV-mc4br-3" value="添加属性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="158" y="1464" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="mRtXuHrEhD1mUm-6mRs5" name="modbus">
-    <mxGraphModel dx="1687" dy="1278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1466" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2030,7 +2054,7 @@
           <mxGeometry x="626" y="-347" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wed7ENuK10rTt6EPyg2n-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-28" width="692" height="523" as="geometry" />
+          <mxGeometry x="72" y="-29" width="614" height="523" as="geometry" />
         </mxCell>
         <mxCell id="Wed7ENuK10rTt6EPyg2n-2" value="设备id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="79.5" y="20" width="87" height="54" as="geometry" />
@@ -2093,7 +2117,7 @@
           <mxGeometry x="365" y="288" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wed7ENuK10rTt6EPyg2n-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="897" y="-14" width="622" height="474" as="geometry" />
+          <mxGeometry x="979" y="-13" width="531" height="474" as="geometry" />
         </mxCell>
         <mxCell id="Wed7ENuK10rTt6EPyg2n-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1087" y="102" width="389" height="158" as="geometry" />
@@ -2202,6 +2226,15 @@
         </mxCell>
         <mxCell id="Wed7ENuK10rTt6EPyg2n-72" value="操作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1408" y="114" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhzXxUBY-j2XjuZVRWTj-1" value="设备列表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="-370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhzXxUBY-j2XjuZVRWTj-2" value="添加设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-13" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dhzXxUBY-j2XjuZVRWTj-3" value="添加属性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1015" y="-13" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
